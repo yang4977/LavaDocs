@@ -1,0 +1,7 @@
+site_name: LavaDocs
+
+nav:
+  - Home: yangemalee.md
+  - About: about.md
+
+theme: readthedocs
